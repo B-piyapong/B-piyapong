@@ -1,4 +1,4 @@
-# Hi there, I'm <span type="Piyapong" placeholder-type="person"></span> 👋
+# Hi there, I'm Piyapong</span> 👋
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
