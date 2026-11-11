@@ -26,13 +26,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=B-piyapong&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=B-piyapong&show_icons=true&theme=tokyonight&hide_border=true%22" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=B-piyapong&layout=compact&theme=tokyonight&hide_border=true%22" alt="Top Languages" height="150" />
+</div>
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=B-piyapong&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=B-piyapong&theme=react-dark)
 ---
 
 ### 📫 Connect with Me
