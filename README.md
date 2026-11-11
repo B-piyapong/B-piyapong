@@ -1,4 +1,4 @@
-# Hi there, I'm <span type="placeholder" placeholder-type="person"></span> 👋
+# Hi there, I'm <span type="Piyapong" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
@@ -29,7 +29,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B-piyapong&show_icons=true&theme=tokyonight&hide_border=true" alt="B-piyapong GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=B-piyapong&show_icons=true&theme=tokyonight&hide_border=true" alt="B-piyapong" height="150" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-piyapong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
