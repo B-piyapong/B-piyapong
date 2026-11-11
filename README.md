@@ -1,27 +1,22 @@
 # Hi there, I'm <span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
-- 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
-- 💬 Ask me about **JavaScript, Python, and Web Frameworks**
+- 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
+- 💡 Interested in **Software Engineering, Web Development, and cybersecurity**
+- 🎯 Current Goal: Finish your studies and find an internship at a great software company.
+- 💬 Ask me about **python , C **
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,7 +28,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-B-piyapong-HERE&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="B-piyapong" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
