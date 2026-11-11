@@ -30,8 +30,8 @@
  
 <div align="center">
  
-<img src="https://github-readme-stats-fast.vercel.app/api?username=B-piyapong&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=B-piyapong&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=thammarat-ai&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thammarat-ai&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
  
 <br/><br/>
  
